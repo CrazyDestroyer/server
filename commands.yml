@@ -126,4 +126,4 @@ aliases:
   - minecraft:weather $1-
   xp:
   - minecraft:xp $1-
-unrestricted-advancements: false
+unrestricted-advancements: true
